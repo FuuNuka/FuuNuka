@@ -50,5 +50,9 @@
   - ระบบการจองพื้นที่จอดรถ (Booking System)
   - การแสดงผลแผนที่ผ่าน Google Maps iframe
 - **Links:** [Source Code](https://github.com/FuuNuka/ParkingLot_Model_php_project)
+### ☕ 3. NV Web Blog (Cafe Content Management)
+- **Description:** ระบบเว็บบล็อกแบบ Full-Stack สำหรับจัดการคอนเทนต์และรีวิว ผู้ใช้งานสามารถจัดการบทความได้ครบถ้วนทั้งการเพิ่ม (Create), ดูรายละเอียด (Read), แก้ไข (Update) และลบ (Delete) ข้อมูล
+- **Tech Stack:** Vue.js (Frontend), Node.js & Express (Backend)
+- **Links:** [Source Code](https://github.com/FuuNuka/nv-webblog-final-main-main)
 ---
 <p align="center"> <i>Let's connect and build something awesome together!</i> </p>
