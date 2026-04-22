@@ -37,10 +37,10 @@
 
 ## 💻 Featured Projects (ผลงานเด่น)
 
-### 🎓 1. [My Thesis :Exercise Application using Pose Estimation and 3D Animation:]
--  โปรเจกต์จบพัฒนาระบบ ตรวจจับร่างกายเพื่อวัดผลว่าร่างกายเราขยับตรงกับที่ ร่างต้นไหม
--  Unity, C#, Google MediaPipe
--  [Source Code]([https://github.com/FuuNuka/your-thesis-repo](https://github.com/FuuNuka/Exercise-Application-using-Pose-Estimation-and-3D-Animation.))
+### 🎓 1. Exercise Application using Pose Estimation and 3D Animation
+- **Description:** แอปพลิเคชันออกกำลังกาย Interactive 3D ตรวจจับการเคลื่อนไหวผ่านกล้อง Webcam ด้วย AI
+- **Tech Stack:** Unity, C#, Google MediaPipe
+- **Links:** [Source Code](https://github.com/FuuNuka/Exercise-Application-using-Pose-Estimation-and-3D-Animation.)
 
 ### 🚗 2. Airport Parking Management System
 - **Description:** โปรเจกต์พัฒนาระบบจัดการลานจอดรถสนามบินแบบครบวงจร มีการแบ่งสิทธิ์ผู้ใช้งานระหว่าง Admin และ Member โดย Admin สามารถจัดการข้อมูล (CRUD) ลานจอด, โซน, พนักงาน และสมาชิกได้ ส่วน Member สามารถดูแผนที่และจองที่จอดรถได้
