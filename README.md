@@ -49,6 +49,6 @@
   - ระบบจัดการฐานข้อมูลเชิงสัมพันธ์ (Relational Database)
   - ระบบการจองพื้นที่จอดรถ (Booking System)
   - การแสดงผลแผนที่ผ่าน Google Maps iframe
-- **Source Code:** [https://github.com/FuuNuka/ParkingLot_Model_php_project]
+- **Links:** [Source Code](https://github.com/FuuNuka/ParkingLot_Model_php_project)
 ---
 <p align="center"> <i>Let's connect and build something awesome together!</i> </p>
